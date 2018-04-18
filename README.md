@@ -35,7 +35,7 @@ To check our work, it felt it would be necessary to compare to price of Bitcoin 
 
 ![Crypto Currency Price Correlation to Bitcoin](/pics/BTC-Stocks-Corr.jpeg)
 
-Here is see almost no trend in price correlation over time, each stock ranges mostly between -0.2 to 0.2 since 2014. There is an exception again in the start of 2018 when both BTC and the stock markets when they a major correction. (I'll leave it to other to speculate on whether these two events are related - but I suspect they are). BTC is neither highly correlated or highly uncorrelated to traditional investment markets. 
+Here I see almost no trend in price correlation over time, each stock's correlation coefficient ranges between -0.2 to 0.2 since 2014. There is an exception again in the start of 2018 when both BTC and the stock markets when they a major correction. (I'll leave it to other to speculate on whether these two events are related - but I suspect they are). BTC is neither highly correlated or highly uncorrelated to traditional investment markets. 
 
 ## Conclusions ##
 
